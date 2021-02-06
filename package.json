@@ -1,0 +1,14 @@
+{
+  "name": "fcreator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "./createfolder": "./fc.js"
+  },
+  "author": "Mukka Deepak",
+  "license": "ISC"
+}
