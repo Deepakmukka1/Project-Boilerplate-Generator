@@ -1,7 +1,6 @@
 # Project-Boilerplate-Generator
-This command helps us to create a folder structure for future web development projects
 
-![](https://github.com/Deepakmukka1/Project-Boilerplate-Generator/blob/main/Banner%20Image.PNG)
+This command helps us to create a folder structure for future web development projects
 
 ### 1. Make sure node and git are installed in your device
 
@@ -14,7 +13,7 @@ Install from https://nodejs.org/en/
 
 ```
 
-git clone https://github.com/Deepakmukka1/Todo-CLI.git
+git clone https://github.com/Deepakmukka1/Project-Boilerplate-Generator.git
 
 ```
 
@@ -22,7 +21,7 @@ git clone https://github.com/Deepakmukka1/Todo-CLI.git
 
 ```
 
-cd Todo-CLI
+cd Project-Boilerplate-Generator
 
 ```
 
@@ -53,6 +52,8 @@ $creatfolder 'yourprojectname'
 
 ```
 That's it the folder structure will be created!
+
+![](https://github.com/Deepakmukka1/Project-Boilerplate-Generator/blob/main/Banner%20Image.PNG)
 
 
 
