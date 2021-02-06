@@ -1,6 +1,6 @@
 # Project-Boilerplate-Generator
 
-This command helps us to create a folder structure for future web development projects
+This command helps us to create a folder structure for future web development projects with HTML,CSS,JS
 
 ### 1. Make sure node and git are installed in your device
 
@@ -17,7 +17,7 @@ git clone https://github.com/Deepakmukka1/Project-Boilerplate-Generator.git
 
 ```
 
-### 3. Go to the file Todo-CLI using below command
+### 3. Go to the file Project-Boilerplate-Generator using below command
 
 ```
 
