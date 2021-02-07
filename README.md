@@ -53,7 +53,7 @@ $creatfolder 'yourprojectname'
 ```
 That's it the folder structure will be created with default code in each file!
 
-![](https://github.com/Deepakmukka1/Project-Boilerplate-Generator/blob/main/Banner%20Image.PNG)
+![](https://github.com/Deepakmukka1/Project-Boilerplate-Generator/blob/main/Banner%20Image.png)
 
 Individual Files
 
