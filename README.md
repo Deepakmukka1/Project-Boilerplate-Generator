@@ -6,7 +6,7 @@ This command helps you to create a biolerplate code for future web development p
 
 ```
 
-npm install boilerplategenerator
+npm i webprojectgenerator
 
 ```
 
