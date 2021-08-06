@@ -25,7 +25,7 @@ Go to the folder or drive where you need to create project and enter this comman
 
 ```
 
-$creatfolder 'yourprojectname'
+creatfolder <yourprojectname>
 
 ```
 That's it the folder structure will be created with biolerplate code in each file!
