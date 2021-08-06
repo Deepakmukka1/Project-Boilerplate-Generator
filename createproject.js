@@ -39,6 +39,7 @@ fs.appendFile(
       padding:0;
     }`,
   function (err) {
+    if (err)
     console.log(chalk.red("Unable to create style.css file"));
   }
 );
