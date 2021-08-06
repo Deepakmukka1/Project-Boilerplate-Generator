@@ -1,5 +1,5 @@
 {
-  "name": "projectfoldercreator",
+  "name": "boilerplategenerator",
   "version": "1.0.1",
   "description": "This package create a folder structure for future web development (HTML,CSS,JS) projects",
   "main": "createproject.js",

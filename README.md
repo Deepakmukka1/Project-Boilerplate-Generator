@@ -1,39 +1,16 @@
-# Project-Boilerplate-Generator
+# Boilerplate-Generator
 
-This command helps us to create a folder structure for future web development projects with HTML,CSS,JS
+This command helps you to create a biolerplate code for future web development projects with HTML,CSS,JS
 
-### 1. Make sure node and git are installed in your device
-
-```
-Install from https://nodejs.org/en/
+### 1. Install
 
 ```
 
-### 2. Open your command line and clone this project using the below command
+npm install boilerplategenerator
 
 ```
 
-git clone https://github.com/Deepakmukka1/Project-Boilerplate-Generator.git
-
-```
-
-### 3. Go to the file Project-Boilerplate-Generator using below command
-
-```
-
-cd Project-Boilerplate-Generator
-
-```
-
-### 4. Install
-
-```
-
-npm install -g
-
-```
-
-### 5. Done! You are ready to use it
+### 2. Done! You are ready to use it
 
 ```
 
@@ -51,7 +28,7 @@ Go to the folder or drive where you need to create project and enter this comman
 $creatfolder 'yourprojectname'
 
 ```
-That's it the folder structure will be created with default code in each file!
+That's it the folder structure will be created with biolerplate code in each file!
 
 ![](https://github.com/Deepakmukka1/Project-Boilerplate-Generator/blob/main/Banner%20Image.png)
 
