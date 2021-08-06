@@ -1,14 +1,17 @@
 {
   "name": "fcreator",
   "version": "1.0.0",
-  "description": "",
-  "main": "fc.js",
+  "description": "This package create a folder structure for future web development (HTML,CSS,JS) projects",
+  "main": "createproject.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "./createfolder": "./fc.js"
+    "./createfolder": "./createproject.js"
   },
   "author": "Mukka Deepak",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
 }
