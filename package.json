@@ -11,6 +11,7 @@
   },
   "author": "Mukka Deepak",
   "license": "ISC",
+  "keywords": ["frontend","cli","javascript","nodejs"],
   "dependencies": {
     "chalk": "^4.1.2"
   }
